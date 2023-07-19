@@ -1,0 +1,9 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.b{
+    background-image: url("./img/a.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

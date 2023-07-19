@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap');
+
+* {
+  font-family: 'Open Sans';
+}
+.fn{
+  font-family: 'Open Sans'; 
+  
+}
+/* .btn{
+  background: linear-gradient(90deg, #00C97B 0%, #00D981 96.96%);
+  color: white;
+  box-shadow: #01CB7C33;
+  padding: 5px;
+  border-radius: 12px;
+
+} */
+
+.red-button {
+  background-color: red;
+}
